@@ -1,3 +1,5 @@
 Thay doi A
 conflict 2
 dev-conflict2
+conflict 2
+
